@@ -24,8 +24,8 @@ We see how to configure npm scripts to automate our build step, and install type
 
 we add Webpack to our project and see how to configure it to 1) compile our TypeScript code; 2) generate a single bundle with all the JavaScript code required to run our application.
 
-[**Fourth Video Tutorial**](https://www.youtube.com/watch?v=oZBuiqovOZ0)
-we add Webpack to our project and see how to configure it to 1) compile our TypeScript code; 2) generate a single bundle with all the JavaScript code required to run our application.
+[**Fifth Video Tutorial**](https://www.youtube.com/watch?v=lPhZW8ZyUA4)
+we use the html-webpack-plugin to generate our index.html from a template so our "dist" folder contains everything needed to run our application . Then we configure a production build to generate a smaller, more optimised code bundle. Finally we see how to use the webpack-dev-server to speed up our development cycle.
 
 
 
