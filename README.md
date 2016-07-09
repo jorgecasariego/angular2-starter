@@ -20,4 +20,14 @@ We also see how to install type definitions using Typings to fix compilation err
 
 We see how to configure npm scripts to automate our build step, and install type definitions in the postinstall step.
 
+[**Fourth Video Tutorial**](https://www.youtube.com/watch?v=oZBuiqovOZ0)
+
+we add Webpack to our project and see how to configure it to 1) compile our TypeScript code; 2) generate a single bundle with all the JavaScript code required to run our application.
+
+[**Fourth Video Tutorial**](https://www.youtube.com/watch?v=oZBuiqovOZ0)
+we add Webpack to our project and see how to configure it to 1) compile our TypeScript code; 2) generate a single bundle with all the JavaScript code required to run our application.
+
+
+
+
 
