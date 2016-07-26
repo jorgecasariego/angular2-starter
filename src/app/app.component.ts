@@ -2,7 +2,8 @@ import {Component} from '@angular/core';
 
 @Component({
 	selector: 'my-app',
-	template: '<h1>My app componente with Webpack</h1>'
+	template: require('./app.component.html'),
+	styles: [require('./app.component.css')]
 })
 
 // Para que funcione los pasos son:
